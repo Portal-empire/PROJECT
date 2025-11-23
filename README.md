@@ -1,12 +1,12 @@
-RETAIL BILLING SYSTEM – PROJECT REPORT
+# **RETAIL BILLING SYSTEM – PROJECT REPORT**
 
-1. Introduction
+## 1. Introduction
 
 This project is a Retail Billing and Inventory Management System based on Python. It enables a store to manage items, track inventory, create customer bills and see sales reports. The system is simple, interactive and provides a clean menu driven interface.
 
 ---
 
-2. Project Objectives
+## 2. Project Objectives
 
 Maintain a reliable inventory of items.
 
@@ -20,7 +20,7 @@ Produce an easy, visually appealing and user-friendly output for business use.
 
 ---
 
-3. System Features
+## 3. System Features
 
    
 
@@ -107,7 +107,7 @@ Total amount.
 ---
 
 
-6. Conclusion
+## 4. Conclusion
 
 This project for the Retail Billing System is a complete and functional Python program.
 It showcases the practical use of:
@@ -132,6 +132,6 @@ Real-time inventory and sales
 Prepared by:
 
 
-Avni Gupta
+**Avni Gupta**
 
 Retail Billing System - Python Project
