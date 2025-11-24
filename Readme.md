@@ -1,3 +1,18 @@
+# OUTPUT
+
+
+<img width="570" height="947" alt="Screenshot 2025-11-24 173150" src="https://github.com/user-attachments/assets/750b0e8c-7d4a-412f-b28c-9da103efc757" />
+<img width="528" height="954" alt="Screenshot 2025-11-24 173254" src="https://github.com/user-attachments/assets/6a8517d8-a71e-4f0e-9631-ae4b21dc0044" />
+
+
+# INPUT
+
+
+<img width="1036" height="938" alt="Screenshot 2025-11-24 174214" src="https://github.com/user-attachments/assets/9bff4d2c-cb37-4da6-bce3-527f42add87d" />
+<img width="1000" height="857" alt="Screenshot 2025-11-24 174235" src="https://github.com/user-attachments/assets/b58f4e63-03c7-4542-8d6b-8fb1f8515bd0" />
+<img width="1140" height="930" alt="Screenshot 2025-11-24 174248" src="https://github.com/user-attachments/assets/c43a1a00-c029-4f32-9b2e-979ccc4bc1ba" />
+
+
 # **RETAIL BILLING SYSTEM – PROJECT REPORT**
 
 ## 1. Introduction
