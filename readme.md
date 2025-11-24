@@ -1,3 +1,8 @@
+<img width="528" height="954" alt="Screenshot 2025-11-24 173254" src="https://github.com/user-attachments/assets/8af2d840-b475-4ebb-a514-6107f8ccb969" />
+<img width="570" height="947" alt="Screenshot 2025-11-24 173150" src="https://github.com/user-attachments/assets/1f28214c-871c-407b-9288-b3a24665072d" />
+
+
+
 #   🛒 Retail Store Inventory & Billing System 
 
 
